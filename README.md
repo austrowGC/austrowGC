@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<iframe href="austrowGC.github.io/spool">
-</iframe>
+<iframe href="austrowGC.github.io/spool" />
 
 <!--
 **austrowGC/austrowGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
